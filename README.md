@@ -1,9 +1,4 @@
-<style>
-  pre{
-  background-color: #ffff00;
-  
-  }
- </style>
+
 <pre>
 # arduino-projects
 starter code for arduino projects
