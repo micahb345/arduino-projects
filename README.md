@@ -3,7 +3,7 @@
   background-color: #ffff00;
   
   }
- </styke>
+ </style>
 <pre>
 # arduino-projects
 starter code for arduino projects
